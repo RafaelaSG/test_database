@@ -1,0 +1,40 @@
+;0
+ITEM;1
+Intituição;FUNCEME
+codigo;4714.0
+nome;Acaraú
+municipio;Aiuaba 
+codigo_municipio;2300408.0
+macrorregiao;Sertão Central e Inhamuns
+latitude;-6.7139
+longitude;-40.307378
+altitude;
+variáveis_coletadas;100.0, 17.0, 52.0, 19.0, 51.0, 22.0, 14.0, 17.0, 54.0, 21.0, 39.0, 2.0, 9.0, 3.0, 4.0, 6.0, 18.0, 30.0, 31.0
+data_inicial;12/08/2014
+data;
+data_final;20/08/2019
+ativo;
+frequencia;1h
+FORNECEDOR;Campbell
+Radiação;CMP3
+dir vel vento;Met One 034
+temp umidade;HMP 155D Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615 Campbell
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

@@ -1,0 +1,40 @@
+;5
+ITEM;6
+Intituição;FUNCEME
+codigo;45.0
+nome;Assaré
+municipio;Assaré
+codigo_municipio;2301604.0
+macrorregiao;Sertão Central e Inhamuns
+latitude;-6.8541666666667
+longitude;-39.865277777778
+altitude;
+variáveis_coletadas;19.0, 51.0, 22.0, 14.0, 21.0, 39.0, 2.0, 6.0, 18.0, 50.0, 31.0
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;1h
+FORNECEDOR;Campbell
+Radiação;CMP3
+dir vel vento;Met One 034
+temp umidade;HMP 155 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615 Campbell
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

@@ -1,0 +1,40 @@
+;26
+ITEM;27
+Intituição;FUNCEME 
+codigo;35742.0
+nome;Limoeiro do Norte
+municipio;Limoeiro do Norte
+codigo_municipio;2307601.0
+macrorregiao;Jaguaribana
+latitude;-5.191334
+longitude;-37.937417
+altitude;
+variáveis_coletadas;2.0, 3.0, 4.0, 6.0, 14.0, 21.0, 22.0,  30.0, 31.0, 50.0, 51.0, 54.0
+data_inicial;2020
+data;
+data_final;
+ativo;
+frequencia;1h
+FORNECEDOR;Campbell
+Radiação;SR11
+dir vel vento;Windsonic Gill
+temp umidade;HMP155A Vaisala
+pressão;
+pluv;TB4
+temp solo;108L Campbell
+fluxo calor solo;HFP01- Hukseflux
+umidade solo;
+Datalogger;CR1000
+Bateria;12V, 26Ah
+Controlador de carga;
+supressor de transiente;
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;Modem Duodigit
+Área;
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

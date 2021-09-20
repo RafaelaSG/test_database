@@ -1,0 +1,40 @@
+;30
+ITEM;31
+Intituição;FUNCEME 
+codigo;4715.0
+nome;Parambu
+municipio;Parambu 
+codigo_municipio;2310308.0
+macrorregiao;Sertão Central e Inhamuns
+latitude;-6.205251
+longitude;-40.68936
+altitude;
+variáveis_coletadas;2.0, 3.0, 4.0, 6.0, 9.0, 14.0, 17.0, 22.0, 54.0, 100.0
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;1h
+FORNECEDOR;Hobeco
+Radiação;CMP6
+dir vel vento;Windsonic Gill
+temp umidade;HMP 110 Vaisala
+pressão;BARO-1QML
+pluv;TB4
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;QML201
+Bateria;12V, 26Ah
+Controlador de carga;Morningstar sun saver 10
+supressor de transiente;Clamper series 900 e 800
+Torre;Ferro galvanizado 10m
+Painel solar;20 Watts
+Comunicação;V1001200 OMNISAT
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

@@ -1,0 +1,40 @@
+;24
+ITEM;25
+Intituição;FUNCEME 
+codigo;1178.0
+nome;Jijoca de Jericoacara
+municipio;Jijoca de Jericoacara
+codigo_municipio;2307254.0
+macrorregiao;Litoral Norte
+latitude;-2.91464166667
+longitude;-40.4397694444
+altitude;
+variáveis_coletadas;2.0, 6.0, 14.0, 17.0, 18.0, 19.0, 21.0, 22.0,  31.0,39.0, 50.0, 51.0, 100
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;15 min
+FORNECEDOR;Hobeco
+Radiação;CMP6
+dir vel vento;Windsonic Gill
+temp umidade;HMP 110 Vaisala
+pressão;BARO-1QML
+pluv;TB4
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;QML201
+Bateria;12V, 26Ah
+Controlador de carga;Morningstar sun saver 10
+supressor de transiente;Clamper series 900 e 800
+Torre;Ferro galvanizado 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Pública - ICMBIO
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

@@ -1,0 +1,40 @@
+;11
+ITEM;12
+Intituição;FUNCEME
+codigo;81.0
+nome;Canindé 
+municipio;Canindé 
+codigo_municipio;2302800.0
+macrorregiao;Sertão Central e Inhamuns
+latitude;-4.6216666666667
+longitude;-39.392777777778
+altitude;
+variáveis_coletadas;2.0, 6.0, 14.0, 19.0, 18.0, 21.0, 22.0, 31.0, 51.0, 39.0, 50.0
+data_inicial;15/03/2017
+data;
+data_final;23/04/2017
+ativo;
+frequencia;3h (00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)
+FORNECEDOR;Campbell
+Radiação;CMP3
+dir vel vento;Met One 034
+temp umidade;HMP 155 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;obs. na lista de ref o nome costa como Canindé prodam, verificar se é a mesma pcd
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

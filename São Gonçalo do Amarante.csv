@@ -1,0 +1,40 @@
+;46
+ITEM;47
+Intituição;FUNCEME
+codigo;18.0
+nome;São Gonçalo do Amarante
+municipio;São Gonçalo do Amarante
+codigo_municipio;2312403.0
+macrorregiao;Litoral do Pecem
+latitude;-3.65
+longitude;-38.942222222222
+altitude;
+variáveis_coletadas;
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;3h (00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)
+FORNECEDOR;Campbell
+Radiação;SPLite Kipp&Zonen
+dir vel vento;Met One 034
+temp umidade;HMP 145 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615 Campbell
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

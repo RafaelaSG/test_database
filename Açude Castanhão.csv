@@ -1,0 +1,40 @@
+;2
+ITEM;3
+Intituição;FUNCEME/ANA
+codigo;2237.0
+nome;Açude Castanhão
+municipio;Alto Santo
+codigo_municipio;
+macrorregiao;Jaguaribana
+latitude;-5.4925
+longitude;-38.4505
+altitude;
+variáveis_coletadas;
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;
+FORNECEDOR;Campbell
+Radiação;CMP3
+dir vel vento;Met One 034
+temp umidade;HMP 155 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Pública - Dnocs
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

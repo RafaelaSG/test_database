@@ -1,0 +1,40 @@
+;7
+ITEM;8
+Intituição;FUNCEME
+codigo;4716.0
+nome;Barro
+municipio;Barro
+codigo_municipio;2302008.0
+macrorregiao;Cariri
+latitude;-7.011695
+longitude;-38.750666
+altitude;
+variáveis_coletadas;2.0, 3.0, 4.0, 6.0, 9.0, 14.0, 17.0, 22.0, 30.0, 31.0, 51.0, 52.0, 54.0, 100.0
+data_inicial;19/05/2017
+data;
+data_final;05/06/2021
+ativo;
+frequencia;1h
+FORNECEDOR;Hobeco
+Radiação;CMP6
+dir vel vento;Windsonic Gill
+temp umidade;HMP 110 Vaisala
+pressão;BARO-1QML
+pluv;TB4
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;QML201
+Bateria;12V, 26Ah
+Controlador de carga;Morningstar sun saver 10
+supressor de transiente;Clamper series 900 e 800
+Torre;Ferro galvanizado 10m
+Painel solar;20 Watts
+Comunicação;V1001200 OMNISAT
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

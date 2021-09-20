@@ -1,0 +1,40 @@
+;51
+ITEM;52
+Intituição;FUNCEME
+codigo;4707.0
+nome;Viçosa do Ceará
+municipio;Viçosa do Ceará
+codigo_municipio;
+macrorregiao;Ibiapaba
+latitude;-35692.0
+longitude;-41.3661
+altitude;
+variáveis_coletadas;
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;1h
+FORNECEDOR;Hobeco
+Radiação;CMP6
+dir vel vento;Windsonic Gill
+temp umidade;HMP 110 Vaisala
+pressão;BARO-1QML
+pluv;TB4
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;QML201
+Bateria;12V, 26Ah
+Controlador de carga;Morningstar sun saver 10
+supressor de transiente;Clamper series 900 e 800
+Torre;Ferro galvanizado 10m
+Painel solar;20 Watts
+Comunicação;V1001200 OMNISAT
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

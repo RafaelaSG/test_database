@@ -1,0 +1,40 @@
+;14
+ITEM;15
+Intituição;FUNCEME
+codigo;83.0
+nome;Eusébio
+municipio;Eusébio
+codigo_municipio;2304285.0
+macrorregiao;Litoral de Fortaleza
+latitude;-3.8786111111111
+longitude;-38425.0
+altitude;
+variáveis_coletadas;2.0, 6.0, 14.0, 19.0, 18.0, 21.0, 22.0, 31.0, 51.0, 39.0, 50.0
+data_inicial;12/02/2016
+data;1969, 1970
+data_final;10/08/2020
+ativo;
+frequencia;3h (00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)
+FORNECEDOR;Campbell
+Radiação;CMP3
+dir vel vento;Met One 034
+temp umidade;HMP 155D Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615 Campbell
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

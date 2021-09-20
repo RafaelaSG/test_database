@@ -1,0 +1,40 @@
+;21
+ITEM;22
+Intituição;FUNCEME 
+codigo;1179.0
+nome;Ipu
+municipio;Ipu 
+codigo_municipio;2305803.0
+macrorregiao;Ibiapaba
+latitude;-4.24115277778
+longitude;-40.7340222222
+altitude;
+variáveis_coletadas;2.0, 6.0, 14.0, 18.0, 19.0, 21.0, 22.0, 39.0, 50.0, 31.0, 51.0, 17.0, 22.0, 100.0
+data_inicial;06/02/2005
+data;
+data_final;26/05/2020
+ativo;
+frequencia;3h (00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)
+FORNECEDOR;Campbell
+Radiação;SPLite Kipp&Zonen
+dir vel vento;Met One 034
+temp umidade;HMP 145 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;107L Campbell
+fluxo calor solo;HFP01-10 Hukseflux
+umidade solo;CS615 Campbell
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

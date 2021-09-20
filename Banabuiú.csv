@@ -1,0 +1,40 @@
+;6
+ITEM;7
+Intituição;FUNCEME
+codigo;25.0
+nome;Banabuiú
+municipio;Banabuiú 
+codigo_municipio;2301851.0
+macrorregiao;Jaguaribana
+latitude;-5.316666666666666
+longitude;-38.91666666666666
+altitude;
+variáveis_coletadas;19.0, 51.0, 22.0, 14.0, 21.0, 39.0, 2.0, 6.0, 18.0, 50.0, 31.0
+data_inicial;31/05/2008
+data;
+data_final;26/08/2015
+ativo;
+frequencia;3h (00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)
+FORNECEDOR;Campbell
+Radiação;SPLite Kipp&Zonen
+dir vel vento;Met One 034
+temp umidade;HMP 145 Vaisala
+pressão;PTB 101B Vaisala
+pluv;TB4 Campbell
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;CR23 X
+Bateria;12V, 26Ah
+Controlador de carga;Steca PR 0303 - EPV LS1024
+supressor de transiente;Clamper series 900 e 800
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;SAT SCD/ARGOS
+Área;Pública - Dnocs
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

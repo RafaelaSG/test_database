@@ -1,0 +1,40 @@
+;16
+ITEM;17
+Intituição;FUNCEME 
+codigo;35319.0
+nome;Praia do Futuro - Cagece
+municipio;Fortaleza 
+codigo_municipio;2304400.0
+macrorregiao;Litoral de Fortaleza
+latitude;-3.762205
+longitude;-38.441723
+altitude;
+variáveis_coletadas;2.0, 3.0, 4.0, 6.0, 7.0, 14.0, 15.0, 22.0, 16.0, 50.0, 51.0, 54.0
+data_inicial;11/11/2019
+data;
+data_final;22/04/2020
+ativo;
+frequencia;1h
+FORNECEDOR;Campbell
+Radiação;SR11
+dir vel vento;Windsonic Gill
+temp umidade;HMP155A
+pressão;61302V YOUNG
+pluv;TB4 Campbell
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;CR1000
+Bateria;12V, 26Ah
+Controlador de carga;
+supressor de transiente;
+Torre;Alumínio 10m
+Painel solar;20 Watts
+Comunicação;Modem Duodigit
+Área;
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;

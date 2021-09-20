@@ -1,0 +1,40 @@
+;23
+ITEM;24
+Intituição;FUNCEME/DUVIDA
+codigo;4711.0
+nome;Jaguaribe 
+municipio;Jaguaribe 
+codigo_municipio;
+macrorregiao;Jaguaribana
+latitude;-6.1869
+longitude;-38.6595
+altitude;
+variáveis_coletadas;
+data_inicial;
+data;
+data_final;
+ativo;
+frequencia;
+FORNECEDOR;Hobeco
+Radiação;CMP6
+dir vel vento;Windsonic Gill
+temp umidade;HMP 110 Vaisala
+pressão;BARO-1QML
+pluv;TB4
+temp solo;
+fluxo calor solo;
+umidade solo;
+Datalogger;QML201
+Bateria;12V, 26Ah
+Controlador de carga;Morningstar sun saver 10
+supressor de transiente;Clamper series 900 e 800
+Torre;Ferro galvanizado 10m
+Painel solar;20 Watts
+Comunicação;V1001200 OMNISAT
+Área;Particular
+qualidade dos dados/sensores;
+fabricante;
+manutenção;
+filtros;
+n de patrimonio;
+financiamento;
